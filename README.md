@@ -1,1 +1,2 @@
-# Praca_dyplomowa_YOLO
+# Praca dyplomowa - "System wizyjny do detekcji ogórków gruntowych oparty o głęboką sieć YOLO"
+
